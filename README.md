@@ -31,7 +31,8 @@ This task is usually done on Excel but Tom's Manager wants to know if there is a
 * The candidate who won the election is **Diana DeGette**. The total vote count she got is 
   272,892 and the percentage of total votes is 73.8%
 
-* The link of the result screenshot is provided for your reference.
+* The link of the result screenshot is provided for your reference
+  (https://github.com/Vaishali715/Election-Analysis/blob/main/Resources/Results_Election_Audit.png)
 
 ## Election Audit Summary
 
